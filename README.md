@@ -1,2 +1,1 @@
-# .github
-HACC Profile README
+> # Hillsdale Area Career Center Cybersecurity
